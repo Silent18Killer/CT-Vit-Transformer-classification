@@ -1,0 +1,11 @@
+Fold 1: Acc=92.68%, Prec=0.9357, Recall=0.9405, F1=0.9311
+Fold 2: Acc=94.31%, Prec=0.9565, Recall=0.9280, F1=0.9376
+Fold 3: Acc=86.18%, Prec=0.8539, Recall=0.8617, F1=0.8493
+Fold 4: Acc=95.08%, Prec=0.9634, Recall=0.9559, F1=0.9561
+Fold 5: Acc=89.34%, Prec=0.9139, Recall=0.8978, F1=0.9002
+
+Average:
+Accuracy: 91.52%
+Precision: 0.9247
+Recall: 0.9168
+F1-score: 0.9149

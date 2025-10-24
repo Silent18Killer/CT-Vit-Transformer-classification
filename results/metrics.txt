@@ -1,0 +1,12 @@
+                                                  precision    recall  f1-score   support
+
+      adenocarcinoma_left.lower.lobe_T2_N0_M0_Ib     0.6667    0.0870    0.1538        23
+   large.cell.carcinoma_left.hilum_T2_N2_M0_IIIa     0.5926    0.7619    0.6667        21
+                                          normal     1.0000    0.8462    0.9167        13
+squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa     0.4516    0.9333    0.6087        15
+
+                                        accuracy                         0.5972        72
+                                       macro avg     0.6777    0.6571    0.5865        72
+                                    weighted avg     0.6604    0.5972    0.5359        72
+
+Accuracy: 59.72%
