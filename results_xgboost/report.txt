@@ -1,0 +1,11 @@
+XGBoost Final Accuracy: 54.00%
+
+              precision    recall  f1-score   support
+
+           0     0.2703    0.1587    0.2000        63
+           1     0.6012    0.7967    0.6853       123
+           2     0.0000    0.0000    0.0000        14
+
+    accuracy                         0.5400       200
+   macro avg     0.2905    0.3185    0.2951       200
+weighted avg     0.4549    0.5400    0.4845       200
